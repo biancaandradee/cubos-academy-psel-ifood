@@ -1,5 +1,5 @@
 # Repositório:
-### Exercícios realizados no processo seletivo da *Cubos Academy* em parceria com o *iFood* 
-![Carinha Feliz](C:\PDZ\cubos-academy-psel-ifood\emojiFeliz.jpg)
+### Exercícios realizados no processo seletivo da *Cubos Academy* em parceria com o *iFood* :)
 
-#### cubos-academy-psel-ifood
+
+ * cubos-academy-psel-ifood
